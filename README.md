@@ -1,1 +1,5 @@
-# Trip-Advisor
+# Trip Advisor
+
+The application "TravelGenie" is a travel package and tour management system built exclusively for travel advisers to assist them in managing tour and travel packages based on the needs of the customer. Using the system's interface, the adviser can create and manage travel packages and tour services.
+The adviser is initially presented with an option to view all previously generated travel packages and tour services, as well as adding new and updating existing ones, if necessary. When creating a travel package, they can manually include transportation services, pick appropriate accommodation, and tour packages based on the client's needs. The system was created with the intention of allowing advisers to customize the packages based on the needs of the customer.
+The application is developed using Python flask for the backend api calls, Frontend of the system is created using React JS, Material UI, axios for the front end api calls and Formik and yup libraries are used for the validations. Mongo DB is the database used to manage and store the data collected from the user. PyCharm CE, VS Code, Mongo DB Atlas, MongoDB Compass were the IDEs used for development of this project.
